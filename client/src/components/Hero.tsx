@@ -4,14 +4,6 @@ import { useTypewriter } from "@/hooks/use-typewriter";
 
 const heroImages = [
   {
-    src: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080",
-    alt: "Young women in educational workshop"
-  },
-  {
-    src: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080",
-    alt: "Students collaborating on STEM projects"
-  },
-  {
     src: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&h=1080",
     alt: "Mountain landscape"
   }
