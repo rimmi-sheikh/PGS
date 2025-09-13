@@ -1,0 +1,39 @@
+Create a responsive, visually striking website for a youth-led South Asian climate and education initiative called "Pahari Global Sisterhood" (PGS).
+
+🌍 Purpose:
+- Share the story of how the founder, Rimmal Sheikh (a high schooler from Pakistan), launched this project after conversations with peers from Costa Rica and Morocco during the TechGirls program.
+- Highlight virtual "sister circles" where girls from Pakistan, Nepal, India, and Bangladesh connect to discuss education, climate, and advocacy.
+- Showcase beginner-friendly STEM workshops (like Arduino and TinkerCAD), legal-literacy discussions, and peer mentorship across 5+ languages.
+- Feature strong visuals from online and in-person sessions across South Asia.
+
+🎨 Design Requirements:
+- **Dark theme**:  
+  - Background: Solid black  
+  - Gradients: Subtle purple or violet overlays (top corners, hover effects, etc.)  
+  - Text colors: Light purple (#d9b8ff), white, and soft lavender for accent headings  
+  - Button/Link colors: White text on purple gradient background  
+- **Fonts**: Poppins or Nunito for body, something bold for hero titles
+- **Hero Section**: Title, short subtitle, and full-width carousel (use placeholder images for now)
+- **About Section**: 1-paragraph founder story with a glowing edge card + small South Asia map
+- **Sister Circles Section**: 4 tiles/cards — each representing Pakistan, Nepal, India, and Bangladesh, with hover text describing real issues faced by girls there
+- **Workshops Archive**: Responsive grid with photo thumbnails and tooltip pop-ups
+- **Testimonials**: Carousel or card slider with quotes from girls in the community
+- **Contact Section**: Clean dark form — name, email, message, and links to socials
+
+✨ Bonus features if possible:
+- Typewriter animation on the homepage subheading
+- Parallax scrolling for image sections
+- Smooth transitions + hover effects
+- Mobile responsive
+
+Pages to Include:
+- Home
+- About
+- Our Circles
+- Programs & Workshops
+- Resources
+- Get Involved
+- Contact
+
+Name the website: "Pahari Global Sisterhood"  
+Add tagline: *“Where Mountain Girls Rise Together.”*
